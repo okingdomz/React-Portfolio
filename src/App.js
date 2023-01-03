@@ -9,9 +9,10 @@ import { Route, Routes, BrowserRouter as Router } from "react-router-dom";
 
 function App() {
   return (
-    <><Router>
+    <>
+    <Router>
       <Routes>
-        <Route path="/" element={<Home />} />
+        <Route path="/React-Portfolio" element={<Home />} />
         <Route path="/project" element={<Projects />} />
         <Route path="/about" element={<About />} />
         <Route path="/contact" element={<Contact />} />
