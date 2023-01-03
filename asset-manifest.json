@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/okingdomz/React-Portfolio.git/static/css/main.630ff48f.css",
-    "main.js": "/okingdomz/React-Portfolio.git/static/js/main.b615fd8e.js",
-    "static/media/project 1 pic.png": "/okingdomz/React-Portfolio.git/static/media/project 1 pic.f1e3eba40b0a01d4b819.png",
-    "static/media/zack.jpg": "/okingdomz/React-Portfolio.git/static/media/zack.00795e84d5fbf3639a9e.jpg",
-    "static/media/project3.png": "/okingdomz/React-Portfolio.git/static/media/project3.aefd7089f8fa104e3967.png",
-    "static/media/project 2 pic.png": "/okingdomz/React-Portfolio.git/static/media/project 2 pic.0a6e07091c2968b8fefc.png",
-    "static/media/react1.jpg": "/okingdomz/React-Portfolio.git/static/media/react1.d63ca3791694cd8f6f49.jpg",
-    "static/media/react2.webp": "/okingdomz/React-Portfolio.git/static/media/react2.8aa659a4278a7132e6f4.webp",
-    "index.html": "/okingdomz/React-Portfolio.git/index.html",
-    "main.630ff48f.css.map": "/okingdomz/React-Portfolio.git/static/css/main.630ff48f.css.map",
-    "main.b615fd8e.js.map": "/okingdomz/React-Portfolio.git/static/js/main.b615fd8e.js.map"
+    "main.css": "/git@github.com:okingdomz/React-Portfolio.git/static/css/main.630ff48f.css",
+    "main.js": "/git@github.com:okingdomz/React-Portfolio.git/static/js/main.354f1f97.js",
+    "static/media/project 1 pic.png": "/git@github.com:okingdomz/React-Portfolio.git/static/media/project 1 pic.f1e3eba40b0a01d4b819.png",
+    "static/media/zack.jpg": "/git@github.com:okingdomz/React-Portfolio.git/static/media/zack.00795e84d5fbf3639a9e.jpg",
+    "static/media/project3.png": "/git@github.com:okingdomz/React-Portfolio.git/static/media/project3.aefd7089f8fa104e3967.png",
+    "static/media/project 2 pic.png": "/git@github.com:okingdomz/React-Portfolio.git/static/media/project 2 pic.0a6e07091c2968b8fefc.png",
+    "static/media/react1.jpg": "/git@github.com:okingdomz/React-Portfolio.git/static/media/react1.d63ca3791694cd8f6f49.jpg",
+    "static/media/react2.webp": "/git@github.com:okingdomz/React-Portfolio.git/static/media/react2.8aa659a4278a7132e6f4.webp",
+    "index.html": "/git@github.com:okingdomz/React-Portfolio.git/index.html",
+    "main.630ff48f.css.map": "/git@github.com:okingdomz/React-Portfolio.git/static/css/main.630ff48f.css.map",
+    "main.354f1f97.js.map": "/git@github.com:okingdomz/React-Portfolio.git/static/js/main.354f1f97.js.map"
   },
   "entrypoints": [
     "static/css/main.630ff48f.css",
-    "static/js/main.b615fd8e.js"
+    "static/js/main.354f1f97.js"
   ]
 }
