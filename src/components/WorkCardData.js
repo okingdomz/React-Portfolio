@@ -2,7 +2,7 @@
 
 import pro1 from "../assets/project 1 pic.png";
 import pro2 from "../assets/project 2 pic.png";
-import pro3 from "../assets/project3.png";
+import pro3 from "../assets/project 3 pic.png";
 
 const ProjectCardData = [
     {
@@ -19,9 +19,9 @@ const ProjectCardData = [
     },
     {
         imgsrc: pro3,
-        title: "TBE",
-        text: "Insert Here",
-        view: "https://www.youtube.com/watch?v=6JL22lU7KCw&list=PLHlOx8lzPX1IQjd6FAL5IXjgK-9h8kVM7&index=7&ab_channel=FLACKO", 
+        title: "Game E-Commerce Application",
+        text: "Our project is a full stack application that allows users to browse video games and add them to their cart. Then users will be able to checkout and purchase the games.",
+        view: "https://github.com/okingdomz/404-Found", 
     },
 
 ];
