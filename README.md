@@ -56,5 +56,7 @@ The following animation shows the web application's appearance and functionality
 
 
 
+Link to the Deployed Portfolio
+https://okingdomz.github.io/React-Portfolio/
 
 © 2022 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
